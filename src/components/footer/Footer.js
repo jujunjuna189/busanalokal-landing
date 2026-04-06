@@ -11,7 +11,7 @@ function Footer() {
                         </div>
                     </div>
                     <div className="md:text-start text-center">
-                        <div className="text-2xl font-semibold" data-aos="fade-up">PT Busanalokal Indonesia</div>
+                        <div className="text-2xl font-semibold" data-aos="fade-up">PT Busana Lokal Indonesia</div>
                         <div data-aos="fade-up" data-aos-delay="50">Jalan Sersan Idris, Kota Bekasi, Jawabarat</div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ function Footer() {
                 </div>
             </section>
             <div className="md:text-start text-center px-16 py-2 bg-slate-800 text-white text-sm">
-                <span>Copyright&copy;PT Busanalokal Indonesia 2022</span>
+                <span>Copyright&copy;PT Busana Lokal Indonesia 2022</span>
             </div>
         </>
     );

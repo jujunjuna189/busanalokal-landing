@@ -11,7 +11,7 @@ function Home() {
                 <DecorCircle className="top-36 right-[27%]" />
                 <DecorCircle className="-bottom-20 -left-20" />
                 <div className="md:text-3xl text-2xl font-semibold" data-aos="fade-up">Selamat Datang Di</div>
-                <div className="md:text-7xl text-4xl font-bold pt-3" data-aos="fade-up" data-aos-delay="100">PT Busanalokal Indonesia !</div>
+                <div className="md:text-7xl text-4xl font-bold pt-3" data-aos="fade-up" data-aos-delay="100">PT Busana Lokal Indonesia !</div>
                 <div className="md:text-2xl mt-10 flex justify-center" data-aos="fade-up" data-aos-delay="300">
                     <div className="xl:w-[60%] md:w-[70%] w-[80%]">
                         Kami adalah perusahaan yang bergerak dalam bidang fashion, menyediakan produk-produk berkualitas tinggi dengan desain yang menarik dan terkini.
@@ -282,7 +282,7 @@ function Home() {
                 <DecorCircle className="top-36 right-[27%]" />
                 <DecorCircle className="-bottom-20 -left-20" />
                 <div className="md:text-3xl text-2xl font-semibold" data-aos="fade-up">Koleksi Produk</div>
-                <div className="md:text-7xl text-4xl font-bold pt-3" data-aos="fade-up" data-aos-delay="100">PT Busanalokal Indonesia</div>
+                <div className="md:text-7xl text-4xl font-bold pt-3" data-aos="fade-up" data-aos-delay="100">PT Busana Lokal Indonesia</div>
                 <div className="md:text-2xl mt-10 flex justify-center" data-aos="fade-up" data-aos-delay="200">
                     <div className="xl:w-[60%] md:w-[70%] w-[80%]">
                         PT Busana Lokal Indonesia menghadirkan koleksi terbaru pakaian yang dibuat dengan bahan-bahan berkualitas
@@ -300,7 +300,7 @@ function Home() {
                         <div className="md:text-6xl text-center text-4xl font-bold z-[999]" data-aos="fade-up">Produk Kami</div>
                         <div className="md:text-2xl text-center text-2xl mt-4 z-[999]" data-aos="fade-up" data-aos-delay="200">
                             Produk yang disediakan<br />
-                            PT Busanalokal Indonesia
+                            PT Busana Lokal Indonesia
                         </div>
                     </div>
                     <div className="flex justify-end">
